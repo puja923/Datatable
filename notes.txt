@@ -1,0 +1,12 @@
+node_modules: Library folder
+    custom Library
+
+public folder:
+    entry file is index.html
+
+src folder: main folder to code
+    entry index.js
+
+
+to create setup folder
+npx create-react-app ./

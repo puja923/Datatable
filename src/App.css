@@ -1,0 +1,19 @@
+.btn{
+    border: 0px;
+    height: 30px;
+    padding: 5px;
+}
+.success{
+    background-color: green;
+    color: white;
+}
+
+.warning{
+    background-color: goldenrod;
+    color: white;
+}
+
+.danger{
+    background-color: red;
+    color: white;
+}

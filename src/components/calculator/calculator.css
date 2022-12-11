@@ -1,0 +1,12 @@
+.Calculator{
+ background-color: orange;
+ width: 50%;
+ margin: 0 auto;
+ text-align: center;
+ color: whitesmoke;
+ margin-top: 50px;
+}
+.Calculator h3{
+    padding-top: 1px;
+    margin-top: 1px;
+}
